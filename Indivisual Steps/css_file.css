@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.favourite-place-bg-container{
+    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=1480&t=st=1665724035~exp=1665724635~hmac=7a75d6e91755f684556f08257f567f4c64a2505d3eef0fe6f7cdf497b9dc669e");
+    height:100vh;
+    background-size:"cover";
+    padding: 35px;
+}   
+.favourite-place-main-heading{
+    color:#ffffff;
+    font-family:"Bree Serif";
+    padding:20px;
+    font-weight:"bold";
+    font-size: 60px;
+}     
+.favourite-place-card{
+    background-color:rgb(255, 255, 255);
+    border-radius: 10px;
+    padding:12px;
+    margin: 15px;   
+}
+.favourite-place-heading{
+    color: #141212;
+    font-family: "Bree Serif";
+    font-size: 45px;
+    font-weight: "bold";
+}
+.favourite-place-discription{
+    color: #514b4b;
+    font-family:"Bree Serif";
+    font-size: 15px;
+}
+.image{
+    height: 150px;
+    width: 120px;
+}
